@@ -1,0 +1,9 @@
+# You can put your preferred keybinds here
+# https://wiki.hyprland.org/Configuring/Binds/
+
+# brings up app searcher
+# bind = Super, Tab, exec, ags -t 'overview' # [hidden]
+
+# alt tabs like windows
+bind = Super, Tab, workspace, m+1
+

@@ -1,0 +1,16 @@
+[TO BE DONE]
+
+For now, its just a list until I upload the script with the forked end-4 dots install script with these apps 
+
+librewolf
+vscode (propietary)
+steam
+spotify
+obsidian
+vesktop
+qbittorrent
+vlc
+mpv player
+okular
+eye of gnome
+
